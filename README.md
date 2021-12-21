@@ -10,7 +10,7 @@ How data science may help with the COVID-19 pandemic? Analysis of trends and cor
 4. Analysis of vaccinations in Poland and other countries<br>
 5. Google Trends vs. coronavirus<br>
 6. Coronavirus vs. happines and wealth of countires<br>
-7. Modelling and forecasting of confirmed cases<br>
+7. Modelling and forecasting the confirmed cases<br>
 8. Q&A<br>
   <br>
  Data used:<br>
